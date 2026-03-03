@@ -185,8 +185,10 @@ Avg Items Per Order = DIVIDE(COUNTROWS(order_details_exp), [Total Orders])
 
 ---
 
-## 👤 Author
 
+## 🔗 Data Source
+
+- **Dataset:** [Restraunt Orders Analysis — Maven Analytics](https://mavenanalytics.io/guided-projects/restaurant-order-analysis)
 
 ---
 
