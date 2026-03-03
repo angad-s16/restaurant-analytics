@@ -155,6 +155,29 @@ Avg Order Value = DIVIDE([Total Revenue], [Total Orders])
 Avg Items Per Order = DIVIDE(COUNTROWS(order_details_exp), [Total Orders])
 ```
 
+## Dashboard Previews
+
+### 1. Executive Overview
+Comprehensive view of Q1 2023 performance, showing total revenue, order volume, and category breakdowns.
+
+| Total Performance | Filtered View |
+| :---: | :---: |
+| ![Q1 Overview](Dashboard%201-1.png) | ![Filtered Metrics](Dashboard%201-2.png) |
+
+### 2. Category & Item Analysis
+Deep dive into specific cuisines and individual menu item performance by revenue and order volume.
+
+| Top Items & Revenue | Italian Cuisine Deep Dive |
+| :---: | :---: |
+| ![Item Analysis](Dashboard%202-1.png) | ![Italian Category](Dashboard%202-2.png) |
+
+### 3. Temporal Trends
+Analysis of peak ordering hours and revenue fluctuations across days of the week and months.
+
+| Global Time Trends | Thursday Specific Trends |
+| :---: | :---: |
+| ![Time Analysis](Dashboard%203-1.png) | ![Temporal Deep Dive](Dashboard%203-2.png) |
+
 ---
 
 ## 🚀 How to Run This Project
